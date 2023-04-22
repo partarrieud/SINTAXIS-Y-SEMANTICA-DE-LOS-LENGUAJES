@@ -12,6 +12,10 @@ K2006
 
 156.797-4
 
-# Nombre: 
+# Apellido:
 
-Damian Omar Partarrieu
+Partarrieu
+
+# Nombre:
+
+Damian Omar
